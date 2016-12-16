@@ -1,0 +1,16 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "This is a Node.js app running on a Docker container",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "docker",
+    "test.",
+    "node"
+  ],
+  "author": "alph0n5e",
+  "license": "ISC"
+}

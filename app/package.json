@@ -2,14 +2,14 @@
   "name": "node-docker",
   "version": "1.0.0",
   "description": "This is a Node.js app running on a Docker container",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js"
   },
   "keywords": [
     "docker",
-    "test.",
-    "node"
+    "nodejs",
+    "test"
   ],
   "author": "alph0n5e",
   "license": "ISC"
